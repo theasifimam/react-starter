@@ -1,8 +1,7 @@
 import React from "react";
-import Form from "./component/Form";
 
 const App = () => {
-  return <Form />;
+  return <h1>Hello</h1>;
 };
 
 export default App;
